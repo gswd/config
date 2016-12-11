@@ -1,0 +1,21 @@
+<scheme name="intellij copy" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2016-11-27T11:43:35</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.2.5.0.0</property>
+    <property name="modified">2016-11-27T11:54:53</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f7eed6" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

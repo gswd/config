@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="tc" value="try {&#10;    $SELECTION$&#10;} catch (Exception e) {&#10;    System.out.println(e.getMessage());&#10;}&#10;" description="Surround try cache" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

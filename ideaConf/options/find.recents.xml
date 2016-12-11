@@ -1,0 +1,18 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>HttpServlet</find>
+      <find>getcusto</find>
+      <find>getCusto</find>
+      <find>getcus</find>
+      <find>getCustomerlist</find>
+      <find>junit</find>
+      <find>LOGGER</find>
+      <find>conn</find>
+      <find>CastUtil</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\IdeaProjects\chapter2</dir>
+    </dirStrings>
+  </component>
+</application>

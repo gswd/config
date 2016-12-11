@@ -1,0 +1,33 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.0.4-release-IJ2016.1-112" />
+    <property name="android-component-compatibility-check" value="1481442226487" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="9" />
+    <property name="selected.color.option.type" value="JAVA_KEYWORD" />
+    <property name="file.chooser.recent.files" value="E:/IdeaProjects/servletDemo&#10;E:/IdeaProjects/javaeedemo/demo-servlet&#10;E:/IdeaProjects/javaeedemo&#10;E:/IdeaProjects/chapter2&#10;E:/apache-tomcat-8.0.36&#10;E:/IdeaProjects/chapter1&#10;E:/IdeaProjects/maven-demo/src/main/webapp&#10;E:/IdeaProjects/maven-demo/src/main/webapp/WEB-INF/web.xml&#10;E:/apache-tomcat-8.0.36/bin&#10;E:/IdeaProjects/hello-world&#10;E:/IdeaProjects/futures&#10;E:/Java/jdk1.8.0_91" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15722656" />
+    <property name="KEYMAP" value="round&#10;duplicate&#10;duplic" />
+    <property name="search.everywhere.max.popup.width" value="676" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="ColorChooser.RecentColors" value="0-43-53-255,,,43-43-43-255,,,255-0-0-255,,,158-41-39-255,,,247-238-214-255" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.15515904" />
+  </component>
+</application>
