@@ -10,6 +10,11 @@
       <find>LOGGER</find>
       <find>conn</find>
       <find>CastUtil</find>
+      <find>header</find>
+      <find>writeFooter</find>
+      <find>file1</find>
+      <find>showTicketForm</find>
+      <find>downl</find>
     </findStrings>
     <dirStrings>
       <dir>E:\IdeaProjects\chapter2</dir>
